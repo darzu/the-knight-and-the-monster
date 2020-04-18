@@ -2,8 +2,8 @@
     "name": "the knight and the monster",
     "dependencies": {
         "device": "*",
-        "holodate": "github:darzu/arcade-words#master",
-        "animation": "*"
+        "animation": "*",
+        "words": "github:darzu/arcade-words#v0.3.0"
     },
     "description": "",
     "files": [
